@@ -16,4 +16,4 @@ We'll divide the analysis into the following parts:
 Data understanding and cleaning\
 Data preparation for model building\
 Building an SVM model - hyperparameter tuning, model evaluation etc.\
-Building a KNN model - hyperparameter tuning, model evaluation etc.\
+Building a KNN model - hyperparameter tuning, model evaluation etc.
