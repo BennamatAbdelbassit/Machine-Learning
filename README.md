@@ -7,6 +7,8 @@ For this problem, we use the MNIST data which is a large database of handwritten
 
 Since each image is of 28 x 28 pixels, and each pixel forms a feature, there are 784 features.
 
+## Project steps
+
 We'll first explore the dataset a bit, prepare it (scale etc.) and then experiment with linear and non-linear SVMs with various hyperparameters.
 
 We'll divide the analysis into the following parts:
