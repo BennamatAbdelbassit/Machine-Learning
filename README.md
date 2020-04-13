@@ -13,7 +13,7 @@ We'll first explore the dataset a bit, prepare it (scale etc.) and then experime
 
 We'll divide the analysis into the following parts:
 
-Data understanding and cleaning 
+Data understanding and cleaning \n
 Data preparation for model building 
 Building an SVM model - hyperparameter tuning, model evaluation etc.
 Building a KNN model - hyperparameter tuning, model evaluation etc.
